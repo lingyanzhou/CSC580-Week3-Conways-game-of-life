@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}Reflection}{2}{section.1}
+\contentsline {section}{\numberline {2}Interesting Rules}{2}{section.2}
+\contentsline {section}{\numberline {3}Testing My Code}{2}{section.3}
+\contentsline {section}{\numberline {4}My Rule of the Universe}{2}{section.4}
+\contentsline {section}{\numberline {5}Screenshot}{4}{section.5}
+\contentsline {section}{\numberline {6}Listings}{5}{section.6}
+\contentsline {subsection}{\numberline {6.1}GameData.java}{5}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}DataPadding.java}{11}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}GameRule.java}{14}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}GameRule1.java}{14}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}GameRule2.java}{20}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}ControlPanel.java}{24}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}GraphicPanel.java}{30}{subsection.6.7}
+\contentsline {subsection}{\numberline {6.8}ImageReadWrite.java}{34}{subsection.6.8}
+\contentsline {subsection}{\numberline {6.9}CellularAutomataFrame.java}{38}{subsection.6.9}
